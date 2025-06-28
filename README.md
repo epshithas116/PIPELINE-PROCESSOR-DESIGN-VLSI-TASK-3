@@ -24,3 +24,6 @@ This task provided a deeper understanding of pipelined processor design and its 
 
 The simulation output matches the task requirement of demonstrating each pipeline stage’s operation through a functional Verilog design. All deliverables—code, testbench, and waveform—were successfully completed. The design was developed, tested, and visualized using EDA Playground, and signal transitions were observed through EPWave.
 
+**SIMULATION OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7747cf18-ee27-41b0-a46f-e0f3cea36d2b)
